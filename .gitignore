@@ -1,0 +1,15 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+# Executables
+/telco/bin/telco
+/commando/bin/commando
+
+# Librairy
+infox_prose-x86_64-v0.3
+
+# Simulator
+intox-java_1.8-v0.3.6.jar
